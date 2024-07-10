@@ -1,0 +1,92 @@
+body {
+  background-color: #627b8a;
+  color: #0a0a0ablack ;
+  font-family:arial;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+P {
+  font-size: 12pt;
+  font-family: arial;
+  text-align: center;
+}
+p {
+  font-size: 14pt;
+  font-family: arial;
+  font-weight:bold
+  text-align: centrado; 
+}
+H1 {
+  font-size: 12pt;
+  font-family:arial;
+  text-align: center;
+  background-color: #03a1fc;
+}
+H2 {
+  font-size: 14pt;
+  font-family:arial;
+  text-decoration: underline;
+  text-align: center;
+  background-color: #03a1fc;
+}
+H3 {
+  font-size: 12pt;
+  font-family: arial narrow bold italic
+  text-align: center;
+  background-color: #0331fc;
+}
+H4 {
+  font-size: 10pt;
+  font-family: arial
+  text-align: center;
+  background-color: #03a1fc;
+TD {
+  font-size: 10pt;
+  font-family:arial;
+  text-align: center;
+  background-color: #adbfc9;
+}
+BODY {
+  background-color: #adbfc9;
+  font-family: arial;
+  color: black;
+}
+footer {
+  font-size: 9pt;
+  background-color: #adbfc9;
+  font-family: arial;
+  color: black;
+}
+p1  {
+  font-size: 9pt;
+  font-family:arial;
+  text-align: center;
+  background-color: #03a1fc }
+p2 {
+  font-size: 9pt;
+  font-family:arial;
+  text-align: center;
+  background-color: #03a1fc }
+p3 {
+  font-size: 9pt;
+  font-family:arial;
+  text-align: center;
+  background-color: #03a1fc }
+
+  header {
+    background-color: #adccd6;
+    color: #b4c3ce;
+    text-align: center;
+    padding: 20px;
+    }
+    section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */}
+    footer {
+    background-color: #a7bfd6; /* Color de fondo del footer */
+    color: #0a0a0a;
+    padding: 20px 0; }
+    .footer-content {
+    max-width: 800px; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center; }
